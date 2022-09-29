@@ -50,3 +50,6 @@ numero de campos y un mismo orden.
 4. En las dos (2) tarjetas utilizadas para ilustrar los resultados de cálculos entre monedas son:
     * Medida calculada "Coin to USD"
     * Medida calculada "USD to Coin"
+
+## Link a Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiNGI4ZmIxNWYtZjIwMy00YWRhLTllNzQtNjMxOGI2N2JjMzQ2IiwidCI6ImJhYjBiNjc5LWJkNWYtNGZlOC1iNTE2LWM2YjhiMzE3Yzc4MiIsImMiOjR9
